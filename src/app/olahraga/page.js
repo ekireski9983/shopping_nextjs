@@ -1,4 +1,4 @@
-export default function shopping (){
+export default function olahraga (){
     return(
       <>belanja</>
     );
