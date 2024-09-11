@@ -1,4 +1,4 @@
-export default function olahraga (){
+export default function contact (){
     return(
       <>belanja</>
     );
